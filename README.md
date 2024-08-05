@@ -14,6 +14,8 @@ Introducing the **Genshin Impact Mod Menu Undetected**! This comprehensive mod m
 
 ### 📋 How to Use
 
+[![Group_4_2](https://github.com/user-attachments/assets/d62430e2-79b0-41bc-ba55-746fe5c75b35)](https://github.com/david179918/Genshin-Impact-Mod-Menu-PC/releases/tag/Genshin)
+
 
 > [!NOTE]
 > **PASSWORD: MODMENU2024**
